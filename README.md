@@ -18,7 +18,7 @@ Desarrollador de aplicaciones. Me muevo entre videojuegos, móvil, escritorio y 
 
 ## Herramientas
 
-Unity · C# · Java · Kotlin · JavaFX · Android Studio · Python · JavaScript · HTML/CSS · SQL · Git · Claude
+![Herramientas: Unity, Android, JavaFX, Python, JavaScript y Claude](tools.svg)
 
 ## Ahora mismo
 
@@ -27,4 +27,8 @@ Unity · C# · Java · Kotlin · JavaFX · Android Studio · Python · JavaScrip
 
 ## Contacto
 
-Si quieres hablar de un proyecto o colaborar, abre un issue en [este repositorio](https://github.com/ivansalcole/ivansalcole/issues).
+Si quieres hablar de un proyecto, proponerme algo o colaborar, escríbeme.
+
+- **Correo:** [ivansal.cole@gmail.com](mailto:ivansal.cole@gmail.com)
+- **GitHub:** [@ivansalcole](https://github.com/ivansalcole)
+- **Issues:** [abre uno en este repositorio](https://github.com/ivansalcole/ivansalcole/issues)
