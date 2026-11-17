@@ -1,147 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="308" viewBox="0 0 1200 308" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" shape-rendering="crispEdges">
 <style>text{font-family:Consolas,"Courier New",monospace}.c{animation:in .6s steps(6) both}@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1}}</style>
-<rect width="1200" height="308" fill="#140c2b"/>
+<rect width="1200" height="132" fill="#140c2b"/>
 <pattern id="st" width="96" height="64" patternUnits="userSpaceOnUse"><rect x="12" y="10" width="4" height="4" fill="#fde7ff" opacity=".35"/><rect x="64" y="40" width="4" height="4" fill="#fde7ff" opacity=".25"/><rect x="40" y="52" width="4" height="4" fill="#fde7ff" opacity=".15"/></pattern>
-<rect width="1200" height="308" fill="url(#st)"/>
+<rect width="1200" height="132" fill="url(#st)"/>
 <g class="c" style="animation-delay:0.00s">
-<path fill="#ffd166" d="M34 24h262v4h4v112h-4v4h-262v-4h-4v-112h4z"/>
-<path fill="#1e1238" d="M38 28h254v4h4v104h-4v4h-254v-4h-4v-104h4z"/>
-<rect x="38" y="144" width="254" height="4" fill="#000" opacity=".35"/>
-<rect x="42" y="40" width="12" height="12" fill="#ffd166"/>
-<text x="62" y="52" font-size="14" font-weight="700" fill="#ffd166" letter-spacing="2">JUEGOS</text>
-<path fill="#ffd166" d="M44 70h61v2h2v22h-2v2h-61v-2h-2v-22h2z"/>
-<path fill="#ffd166" d="M46 72h57v2h2v18h-2v2h-57v-2h-2v-18h2z"/>
-<rect x="44" y="92" width="61" height="2" fill="#000" opacity=".25"/>
-<text x="74.5" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Unity</text>
-<path fill="#ffd166" d="M117 70h35v2h2v22h-2v2h-35v-2h-2v-22h2z"/>
-<path fill="#ffd166" d="M119 72h31v2h2v18h-2v2h-31v-2h-2v-18h2z"/>
-<rect x="117" y="92" width="35" height="2" fill="#000" opacity=".25"/>
-<text x="134.5" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">C#</text>
-<path fill="#ffd166" d="M164 70h121v2h2v22h-2v2h-121v-2h-2v-22h2z"/>
-<path fill="#ffd166" d="M166 72h117v2h2v18h-2v2h-117v-2h-2v-18h2z"/>
-<rect x="164" y="92" width="121" height="2" fill="#000" opacity=".25"/>
-<text x="224.5" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Física 2D/3D</text>
+<path fill="#ffd166" d="M34 20h262v4h4v84h-4v4h-262v-4h-4v-84h4z"/>
+<path fill="#1e1238" d="M38 24h254v4h4v76h-4v4h-254v-4h-4v-76h4z"/>
+<rect x="38" y="112" width="254" height="4" fill="#000" opacity=".35"/>
+<rect x="42" y="36" width="12" height="12" fill="#ffd166"/>
+<text x="62" y="48" font-size="14" font-weight="700" fill="#ffd166" letter-spacing="2">JUEGOS</text>
+<path fill="#ffd166" d="M44 66h61v2h2v22h-2v2h-61v-2h-2v-22h2z"/>
+<path fill="#ffd166" d="M46 68h57v2h2v18h-2v2h-57v-2h-2v-18h2z"/>
+<rect x="44" y="88" width="61" height="2" fill="#000" opacity=".25"/>
+<text x="74.5" y="84" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Unity</text>
+<path fill="#ffd166" d="M117 66h35v2h2v22h-2v2h-35v-2h-2v-22h2z"/>
+<path fill="#ffd166" d="M119 68h31v2h2v18h-2v2h-31v-2h-2v-18h2z"/>
+<rect x="117" y="88" width="35" height="2" fill="#000" opacity=".25"/>
+<text x="134.5" y="84" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">C#</text>
 </g>
 <g class="c" style="animation-delay:0.12s">
-<path fill="#7dd3a8" d="M324 24h262v4h4v112h-4v4h-262v-4h-4v-112h4z"/>
-<path fill="#1e1238" d="M328 28h254v4h4v104h-4v4h-254v-4h-4v-104h4z"/>
-<rect x="328" y="144" width="254" height="4" fill="#000" opacity=".35"/>
-<rect x="332" y="40" width="12" height="12" fill="#7dd3a8"/>
-<text x="352" y="52" font-size="14" font-weight="700" fill="#7dd3a8" letter-spacing="2">MÓVIL</text>
-<path fill="#7dd3a8" d="M334 70h78v2h2v22h-2v2h-78v-2h-2v-22h2z"/>
-<path fill="#7dd3a8" d="M336 72h74v2h2v18h-2v2h-74v-2h-2v-18h2z"/>
-<rect x="334" y="92" width="78" height="2" fill="#000" opacity=".25"/>
-<text x="373.0" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Android</text>
-<path fill="#7dd3a8" d="M424 70h52v2h2v22h-2v2h-52v-2h-2v-22h2z"/>
-<path fill="#7dd3a8" d="M426 72h48v2h2v18h-2v2h-48v-2h-2v-18h2z"/>
-<rect x="424" y="92" width="52" height="2" fill="#000" opacity=".25"/>
-<text x="450.0" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Java</text>
-<path fill="#7dd3a8" d="M488 70h69v2h2v22h-2v2h-69v-2h-2v-22h2z"/>
-<path fill="#7dd3a8" d="M490 72h65v2h2v18h-2v2h-65v-2h-2v-18h2z"/>
-<rect x="488" y="92" width="69" height="2" fill="#000" opacity=".25"/>
-<text x="522.5" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Kotlin</text>
-<path fill="#7dd3a8" d="M334 104h138v2h2v22h-2v2h-138v-2h-2v-22h2z"/>
-<path fill="#7dd3a8" d="M336 106h134v2h2v18h-2v2h-134v-2h-2v-18h2z"/>
-<rect x="334" y="126" width="138" height="2" fill="#000" opacity=".25"/>
-<text x="403.0" y="122" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Android Studio</text>
+<path fill="#7dd3a8" d="M324 20h262v4h4v84h-4v4h-262v-4h-4v-84h4z"/>
+<path fill="#1e1238" d="M328 24h254v4h4v76h-4v4h-254v-4h-4v-76h4z"/>
+<rect x="328" y="112" width="254" height="4" fill="#000" opacity=".35"/>
+<rect x="332" y="36" width="12" height="12" fill="#7dd3a8"/>
+<text x="352" y="48" font-size="14" font-weight="700" fill="#7dd3a8" letter-spacing="2">APPS</text>
+<path fill="#7dd3a8" d="M334 66h78v2h2v22h-2v2h-78v-2h-2v-22h2z"/>
+<path fill="#7dd3a8" d="M336 68h74v2h2v18h-2v2h-74v-2h-2v-18h2z"/>
+<rect x="334" y="88" width="78" height="2" fill="#000" opacity=".25"/>
+<text x="373.0" y="84" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Android</text>
+<path fill="#7dd3a8" d="M424 66h69v2h2v22h-2v2h-69v-2h-2v-22h2z"/>
+<path fill="#7dd3a8" d="M426 68h65v2h2v18h-2v2h-65v-2h-2v-18h2z"/>
+<rect x="424" y="88" width="69" height="2" fill="#000" opacity=".25"/>
+<text x="458.5" y="84" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">JavaFX</text>
 </g>
 <g class="c" style="animation-delay:0.24s">
-<path fill="#f4978e" d="M614 24h262v4h4v112h-4v4h-262v-4h-4v-112h4z"/>
-<path fill="#1e1238" d="M618 28h254v4h4v104h-4v4h-254v-4h-4v-104h4z"/>
-<rect x="618" y="144" width="254" height="4" fill="#000" opacity=".35"/>
-<rect x="622" y="40" width="12" height="12" fill="#f4978e"/>
-<text x="642" y="52" font-size="14" font-weight="700" fill="#f4978e" letter-spacing="2">ESCRITORIO</text>
-<path fill="#f4978e" d="M624 70h69v2h2v22h-2v2h-69v-2h-2v-22h2z"/>
-<path fill="#f4978e" d="M626 72h65v2h2v18h-2v2h-65v-2h-2v-18h2z"/>
-<rect x="624" y="92" width="69" height="2" fill="#000" opacity=".25"/>
-<text x="658.5" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">JavaFX</text>
-<path fill="#f4978e" d="M705 70h52v2h2v22h-2v2h-52v-2h-2v-22h2z"/>
-<path fill="#f4978e" d="M707 72h48v2h2v18h-2v2h-48v-2h-2v-18h2z"/>
-<rect x="705" y="92" width="52" height="2" fill="#000" opacity=".25"/>
-<text x="731.0" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">FXML</text>
-<path fill="#f4978e" d="M769 70h43v2h2v22h-2v2h-43v-2h-2v-22h2z"/>
-<path fill="#f4978e" d="M771 72h39v2h2v18h-2v2h-39v-2h-2v-18h2z"/>
-<rect x="769" y="92" width="43" height="2" fill="#000" opacity=".25"/>
-<text x="790.5" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">MVC</text>
-<path fill="#f4978e" d="M624 104h43v2h2v22h-2v2h-43v-2h-2v-22h2z"/>
-<path fill="#f4978e" d="M626 106h39v2h2v18h-2v2h-39v-2h-2v-18h2z"/>
-<rect x="624" y="126" width="43" height="2" fill="#000" opacity=".25"/>
-<text x="645.5" y="122" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">SQL</text>
+<path fill="#9bb1ff" d="M614 20h262v4h4v84h-4v4h-262v-4h-4v-84h4z"/>
+<path fill="#1e1238" d="M618 24h254v4h4v76h-4v4h-254v-4h-4v-76h4z"/>
+<rect x="618" y="112" width="254" height="4" fill="#000" opacity=".35"/>
+<rect x="622" y="36" width="12" height="12" fill="#9bb1ff"/>
+<text x="642" y="48" font-size="14" font-weight="700" fill="#9bb1ff" letter-spacing="2">CÓDIGO</text>
+<path fill="#9bb1ff" d="M624 66h69v2h2v22h-2v2h-69v-2h-2v-22h2z"/>
+<path fill="#9bb1ff" d="M626 68h65v2h2v18h-2v2h-65v-2h-2v-18h2z"/>
+<rect x="624" y="88" width="69" height="2" fill="#000" opacity=".25"/>
+<text x="658.5" y="84" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Python</text>
+<path fill="#9bb1ff" d="M705 66h104v2h2v22h-2v2h-104v-2h-2v-22h2z"/>
+<path fill="#9bb1ff" d="M707 68h100v2h2v18h-2v2h-100v-2h-2v-18h2z"/>
+<rect x="705" y="88" width="104" height="2" fill="#000" opacity=".25"/>
+<text x="757.0" y="84" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">JavaScript</text>
 </g>
 <g class="c" style="animation-delay:0.36s">
-<path fill="#9bb1ff" d="M904 24h262v4h4v112h-4v4h-262v-4h-4v-112h4z"/>
-<path fill="#1e1238" d="M908 28h254v4h4v104h-4v4h-254v-4h-4v-104h4z"/>
-<rect x="908" y="144" width="254" height="4" fill="#000" opacity=".35"/>
-<rect x="912" y="40" width="12" height="12" fill="#9bb1ff"/>
-<text x="932" y="52" font-size="14" font-weight="700" fill="#9bb1ff" letter-spacing="2">PYTHON</text>
-<path fill="#9bb1ff" d="M914 70h69v2h2v22h-2v2h-69v-2h-2v-22h2z"/>
-<path fill="#9bb1ff" d="M916 72h65v2h2v18h-2v2h-65v-2h-2v-18h2z"/>
-<rect x="914" y="92" width="69" height="2" fill="#000" opacity=".25"/>
-<text x="948.5" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Python</text>
-<path fill="#9bb1ff" d="M995 70h138v2h2v22h-2v2h-138v-2h-2v-22h2z"/>
-<path fill="#9bb1ff" d="M997 72h134v2h2v18h-2v2h-134v-2h-2v-18h2z"/>
-<rect x="995" y="92" width="138" height="2" fill="#000" opacity=".25"/>
-<text x="1064.0" y="88" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Automatización</text>
-<path fill="#9bb1ff" d="M914 104h86v2h2v22h-2v2h-86v-2h-2v-22h2z"/>
-<path fill="#9bb1ff" d="M916 106h82v2h2v18h-2v2h-82v-2h-2v-18h2z"/>
-<rect x="914" y="126" width="86" height="2" fill="#000" opacity=".25"/>
-<text x="957.0" y="122" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Scraping</text>
-</g>
-<g class="c" style="animation-delay:0.48s">
-<path fill="#ffb4e1" d="M179 164h262v4h4v112h-4v4h-262v-4h-4v-112h4z"/>
-<path fill="#1e1238" d="M183 168h254v4h4v104h-4v4h-254v-4h-4v-104h4z"/>
-<rect x="183" y="284" width="254" height="4" fill="#000" opacity=".35"/>
-<rect x="187" y="180" width="12" height="12" fill="#ffb4e1"/>
-<text x="207" y="192" font-size="14" font-weight="700" fill="#ffb4e1" letter-spacing="2">WEB</text>
-<path fill="#ffb4e1" d="M189 210h104v2h2v22h-2v2h-104v-2h-2v-22h2z"/>
-<path fill="#ffb4e1" d="M191 212h100v2h2v18h-2v2h-100v-2h-2v-18h2z"/>
-<rect x="189" y="232" width="104" height="2" fill="#000" opacity=".25"/>
-<text x="241.0" y="228" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">JavaScript</text>
-<path fill="#ffb4e1" d="M305 210h52v2h2v22h-2v2h-52v-2h-2v-22h2z"/>
-<path fill="#ffb4e1" d="M307 212h48v2h2v18h-2v2h-48v-2h-2v-18h2z"/>
-<rect x="305" y="232" width="52" height="2" fill="#000" opacity=".25"/>
-<text x="331.0" y="228" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">HTML</text>
-<path fill="#ffb4e1" d="M369 210h43v2h2v22h-2v2h-43v-2h-2v-22h2z"/>
-<path fill="#ffb4e1" d="M371 212h39v2h2v18h-2v2h-39v-2h-2v-18h2z"/>
-<rect x="369" y="232" width="43" height="2" fill="#000" opacity=".25"/>
-<text x="390.5" y="228" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">CSS</text>
-</g>
-<g class="c" style="animation-delay:0.60s">
-<path fill="#c3f0ff" d="M469 164h262v4h4v112h-4v4h-262v-4h-4v-112h4z"/>
-<path fill="#1e1238" d="M473 168h254v4h4v104h-4v4h-254v-4h-4v-104h4z"/>
-<rect x="473" y="284" width="254" height="4" fill="#000" opacity=".35"/>
-<rect x="477" y="180" width="12" height="12" fill="#c3f0ff"/>
-<text x="497" y="192" font-size="14" font-weight="700" fill="#c3f0ff" letter-spacing="2">IA</text>
-<path fill="#c3f0ff" d="M479 210h69v2h2v22h-2v2h-69v-2h-2v-22h2z"/>
-<path fill="#c3f0ff" d="M481 212h65v2h2v18h-2v2h-65v-2h-2v-18h2z"/>
-<rect x="479" y="232" width="69" height="2" fill="#000" opacity=".25"/>
-<text x="513.5" y="228" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Claude</text>
-<path fill="#c3f0ff" d="M560 210h155v2h2v22h-2v2h-155v-2h-2v-22h2z"/>
-<path fill="#c3f0ff" d="M562 212h151v2h2v18h-2v2h-151v-2h-2v-18h2z"/>
-<rect x="560" y="232" width="155" height="2" fill="#000" opacity=".25"/>
-<text x="637.5" y="228" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">API de Anthropic</text>
-<path fill="#c3f0ff" d="M479 244h78v2h2v22h-2v2h-78v-2h-2v-22h2z"/>
-<path fill="#c3f0ff" d="M481 246h74v2h2v18h-2v2h-74v-2h-2v-18h2z"/>
-<rect x="479" y="266" width="78" height="2" fill="#000" opacity=".25"/>
-<text x="518.0" y="262" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Prompts</text>
-</g>
-<g class="c" style="animation-delay:0.72s">
-<path fill="#e6c3ff" d="M759 164h262v4h4v112h-4v4h-262v-4h-4v-112h4z"/>
-<path fill="#1e1238" d="M763 168h254v4h4v104h-4v4h-254v-4h-4v-104h4z"/>
-<rect x="763" y="284" width="254" height="4" fill="#000" opacity=".35"/>
-<rect x="767" y="180" width="12" height="12" fill="#e6c3ff"/>
-<text x="787" y="192" font-size="14" font-weight="700" fill="#e6c3ff" letter-spacing="2">FLUJO</text>
-<path fill="#e6c3ff" d="M769 210h43v2h2v22h-2v2h-43v-2h-2v-22h2z"/>
-<path fill="#e6c3ff" d="M771 212h39v2h2v18h-2v2h-39v-2h-2v-18h2z"/>
-<rect x="769" y="232" width="43" height="2" fill="#000" opacity=".25"/>
-<text x="790.5" y="228" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Git</text>
-<path fill="#e6c3ff" d="M824 210h69v2h2v22h-2v2h-69v-2h-2v-22h2z"/>
-<path fill="#e6c3ff" d="M826 212h65v2h2v18h-2v2h-65v-2h-2v-18h2z"/>
-<rect x="824" y="232" width="69" height="2" fill="#000" opacity=".25"/>
-<text x="858.5" y="228" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">GitHub</text>
-<path fill="#e6c3ff" d="M905 210h78v2h2v22h-2v2h-78v-2h-2v-22h2z"/>
-<path fill="#e6c3ff" d="M907 212h74v2h2v18h-2v2h-74v-2h-2v-18h2z"/>
-<rect x="905" y="232" width="78" height="2" fill="#000" opacity=".25"/>
-<text x="944.0" y="228" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">VS Code</text>
+<path fill="#c3f0ff" d="M904 20h262v4h4v84h-4v4h-262v-4h-4v-84h4z"/>
+<path fill="#1e1238" d="M908 24h254v4h4v76h-4v4h-254v-4h-4v-76h4z"/>
+<rect x="908" y="112" width="254" height="4" fill="#000" opacity=".35"/>
+<rect x="912" y="36" width="12" height="12" fill="#c3f0ff"/>
+<text x="932" y="48" font-size="14" font-weight="700" fill="#c3f0ff" letter-spacing="2">IA</text>
+<path fill="#c3f0ff" d="M914 66h69v2h2v22h-2v2h-69v-2h-2v-22h2z"/>
+<path fill="#c3f0ff" d="M916 68h65v2h2v18h-2v2h-65v-2h-2v-18h2z"/>
+<rect x="914" y="88" width="69" height="2" fill="#000" opacity=".25"/>
+<text x="948.5" y="84" font-size="14" font-weight="700" fill="#1a0d26" text-anchor="middle">Claude</text>
 </g>
 </svg>
