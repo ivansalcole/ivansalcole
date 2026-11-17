@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" shape-rendering="crispEdges">
-<style>text{font-family:Consolas,"Courier New",monospace}.c{animation:in .6s steps(6) both}@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1}}</style>
+<style>text{font-family:Consolas,"Courier New",monospace}</style>
 <rect width="1200" height="132" fill="#140c2b"/>
 <pattern id="st" width="96" height="64" patternUnits="userSpaceOnUse"><rect x="12" y="10" width="4" height="4" fill="#fde7ff" opacity=".35"/><rect x="64" y="40" width="4" height="4" fill="#fde7ff" opacity=".25"/><rect x="40" y="52" width="4" height="4" fill="#fde7ff" opacity=".15"/></pattern>
 <rect width="1200" height="132" fill="url(#st)"/>
